@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  color: #444;
+  line-height: 1.9;
+  background-color: #f3f3f3;
+}
+main {
+  width: 70%;
+  margin-left: 50rem;
+  margin-top: 20rem;
+}
+
+h1 {
+  color: olive;
+}
+h3 {
+  color: #444;
+}
+input {
+  border-color: blue;
+  height: 2rem;
+  padding: 1rem;
+}
+
+button {
+  border-radius: none;
+  padding: 0.2rem;
+  margin-left: 1rem;
+}
